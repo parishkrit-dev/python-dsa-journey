@@ -1,5 +1,6 @@
-a=[77,88,99,67,98,]
-a.sort()
-print(a)
-a.sort(reverse=True)
-print(a)
+i=0
+n=2
+while i<10:
+ i+=1
+ a=n*i
+ print(a)
